@@ -1,10 +1,16 @@
 _repo: Twenty-Years-a-Detective-in-the-Wickedest-City-in-the-World_47445
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47445-h/images/cover.jpg
 creator:
   author:
     agent_name: Wooldridge, Clifton R.
     gutenberg_agent_id: '44319'
     url: http://www.gutenberg.org/2009/agents/44319
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47445#Twenty-Years-a-Detective-in-the-Wickedest-City-in-the-World
 gutenberg_issued: '2014-11-23'
 gutenberg_type: Text
 identifiers:
